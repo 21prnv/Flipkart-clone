@@ -429,3 +429,67 @@ a {
 .cards {
   padding-left: 30px;
 }
+  @media  screen and (max-width: 600px)  {
+  nav{
+    width: 182vh;
+    height: 75px;
+    background-color: #2874f0;
+    
+  }
+  section{
+    width: 170vh;
+  }
+  .slider{
+    width: 180vh;
+  }
+  .slider-img{
+    height: 400px;
+  }
+  .btn{
+    width: 40px;
+  }
+.scroll-item{
+  width: 250vh;
+  height: 330px;
+  padding-top: 30px;
+}
+.scroll-products{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.ad-img{
+
+  width: 370px;
+  height: 400px;
+}
+.scroll-item2{
+  width: 180vh;
+  height: 300px;
+  padding-top: 30px;
+
+}
+.scroll-products2{
+  padding-left: 40px;
+}
+.scroll-item3{
+  width: 180vh;
+  height: 300px;
+  padding-top: 30px;
+
+}
+.footer{
+  width: 180vh;
+  height: 760px;
+}
+.footer_tags li{
+  padding-top: 50px;
+}
+.last-fut{
+  padding-top: 150px;
+
+}
+.copyright{
+  padding-bottom: 20vh;
+  justify-content: center;
+}
+  }
